@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねえdarling♡？",
+  "base_artist": "いずん≒",
+  "createdAt": "2026-02-12T08:29:47.407975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねえdarling♡? (feat. 可不)",
+      "artist": "いずん≒",
+      "has_synced": false,
+      "path": "select/pl_01_ねえdarling♡__(feat._可不)_いずん≒.txt"
+    }
+  ]
+}
